@@ -132,6 +132,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>seckill</finalName>
+    <finalName>seckillss</finalName>
   </build>
 </project>
